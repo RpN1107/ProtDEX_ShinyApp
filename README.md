@@ -51,10 +51,10 @@ protein-dex/
 ------------------------------------------------------------
 🧪 Test Data
 ------------------------------------------------------------
-A small test dataset is provided under the `tests/` folder:
+A small test dataset is provided under the `TestData/` folder:
 
-- `tests/test_data.csv`
-- `tests/test_data.xlsx`
+- `TestData/test_data.csv`
+- `TestData/test_data.xlsx`
 
 You can upload these files in the Shiny app to explore all features.
 
