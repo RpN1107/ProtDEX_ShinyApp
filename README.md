@@ -44,6 +44,19 @@ protein-dex/
 │── app.R              # Main Shiny application
 │── README.txt         # Project documentation
 │── ABOUT.md           # About page
+|── TestData/          # Sample Datasets
+   | ── test.csv
+   | ── test.xlsx
+
+------------------------------------------------------------
+🧪 Test Data
+------------------------------------------------------------
+A small test dataset is provided under the `tests/` folder:
+
+- `tests/test_data.csv`
+- `tests/test_data.xlsx`
+
+You can upload these files in the Shiny app to explore all features.
 
 ------------------------------------------------------------
 📊 Example Workflow
