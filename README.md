@@ -1,4 +1,4 @@
-"""# Protein DEX: Shiny App for Proteomics Differential Expression
+# Protein DEX: Shiny App for Proteomics Differential Expression
 
 The **Protein DEX** app is a Shiny-based interactive platform for analyzing differential expression in proteomics datasets.  
 It provides preprocessing, normalization, statistical testing, and visualization tools in one place, with easy export of results and plots.
